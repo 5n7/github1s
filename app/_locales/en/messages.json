@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "github1s",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "github1s",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Chrome extension to open GitHub1s",
+    "description": "The description of the application"
+  }
+}
